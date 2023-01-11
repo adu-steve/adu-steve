@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/_adustephen_" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/_adustephen_?logo=twitter&style=for-the-badge" alt="https://twitter.com/_adustephen_" /></a> </p>
 
-- 🔭 I’m currently working on **WebsiteProject**
+                                            - 🔭 I’m currently working on **WebsiteProject**
 
-- 🌱 I’m currently learning **React.js**
+                                            - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript**
+                                            - 💬 Ask me about **React, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **adufamily9@gmail.com**
+                                            - 📫 How to reach me **adufamily9@gmail.com**
 
-- ⚡ Fun fact **I’m interested in soccer, reading and learning**
+                                            - ⚡ Fun fact **I’m interested in soccer, reading and learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
