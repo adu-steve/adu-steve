@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I’m interested in soccer, reading and learning**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/https://twitter.com/_adustephen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/_adustephen_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/stephen-adu-72021320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephen-adu-72021320b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/jaymartial99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/jaymartial99" height="30" width="40" /></a>
