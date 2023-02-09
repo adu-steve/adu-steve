@@ -7,15 +7,15 @@
 
 
 
-   -                                        🔭 I’m currently working on WebsiteProject
+   -🔭 **I’m currently working on Website Project.**
 
-   -                                        🌱 I’m currently learning React.js
+   -🌱 **I’m currently learning React.js.**
 
-   -                                        💬 Ask me about React, HTML, CSS, JavaScript
+   -💬 **Ask me about React, HTML, CSS, JavaScript**
 
-   -                                        📫 How to reach me adufamily9@gmail.com
+   -📫 **How to reach me adufamily9@gmail.com.**
 
-   -                                        ⚡ Fun fact I’m interested in soccer, games and studying
+   -⚡ **Fun fact I’m interested in soccer, games and studying.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
