@@ -1,4 +1,4 @@
-<h1 align="center">Hi😃, I'm Adu Stephen</h1>
+<h1 align="center">Hi😃, I'm Stephen Adu</h1>
 <h3 align="center">A passionate frontend developer from Ghana striving to get what I don't understand and grasp found knowledge to apply.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adu-steve&label=Profile%20views&color=lightgray&style=flat" alt="adu-steve" /> </p>
