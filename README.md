@@ -13,7 +13,7 @@
 
    -💬 **Ask me about React, HTML, CSS, JavaScript**
 
-   -📫 **How to reach me : adufamily9@gmail.com && adustephen255@gmail.com.**
+   -📫 **How to reach me : adustephen255@gmail.com.**
 
    -⚡ **Fun fact I’m interested in soccer, games and studying.**
 
